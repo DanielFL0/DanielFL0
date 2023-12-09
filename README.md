@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-Software Engineer @ Softtek | Problem-solving
+Software Engineer @ Sygno
 
 I work as a Software Engineer on web development projects for various clients, using Python, JavaScript, and .NET as my main tools. I create user-friendly and responsive websites that meet the client's needs and expectations, and collaborate with other developers and designers to ensure the quality and functionality of the web applications.
 
