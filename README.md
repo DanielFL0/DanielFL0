@@ -1,20 +1,50 @@
-### Hi there, I'm Daniel 👋
+# 👋 Hi, I'm Daniel
 
-Software Engineer II @ Sygno IT Services | Crafting Scalable APIs & Data Pipelines | Passionate about Data Visualization | Python
+**Software Engineer II @ Sygno IT Services**  
+*Crafting Scalable APIs & Data Pipelines · Passionate about Data Visualization*
 
-I work as a Software Engineer on web development projects for various clients, using Python, JavaScript, and .NET as my main tools. I create user-friendly and responsive websites that meet the client's needs and expectations, and collaborate with other developers and designers to ensure the quality and functionality of the web applications.
+---
 
-<!--
-**DanielFL0/DanielFL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🚀 I specialize in building scalable backend systems and high-performance data pipelines.
+- ⚙️ Passionate about solving decision-driven problems with optimal performance in mind.
+- 📊 I apply **Data-Oriented Programming** principles to optimize data layout and transformation.
+- 🧼 Advocate of **Clean Code** practices and **Creational Design Patterns** to ensure maintainability and scalability.
+- 🏢 Currently working with **@Chubb** to modernize and optimize vehicle accidents and roadside assistance operations through clean, high-performant code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-informational?style=flat&logo=javascript&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0081CB?style=flat&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fl0/)
+
+---
+
+_Thanks for visiting my profile!_ ✨
+
