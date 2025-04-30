@@ -9,7 +9,7 @@
 
 - 🚀 I specialize in building scalable backend systems and high-performance data pipelines.
 - ⚙️ Passionate about solving decision-driven problems with optimal performance in mind.
-- 📊 I apply **Data-Oriented Programming** principles to optimize data layout and transformation.
+- 📊 I apply **Data-Oriented Design** principles to optimize data layout and transformation for effective cache usage and parallelization.
 - 🧼 Advocate of **Clean Code** practices and **Creational Design Patterns** to ensure maintainability and scalability.
 - 🏢 Currently working with **@Chubb** to modernize and optimize vehicle accidents and roadside assistance operations through clean, high-performant code.
 
