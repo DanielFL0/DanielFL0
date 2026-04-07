@@ -8,9 +8,11 @@ Focused on clean code, data-oriented design, and high-performance systems.
 ---
 
 **Languages:** Python · Go · TypeScript  
-**Frameworks:** Flask · React · Apache Spark  
-**Databases:** MongoDB · MySQL  
-**Data:** Pandas · NumPy · Matplotlib
+**Frameworks:** Flask · Apache Spark · HTMX  
+**Tooling:** Docker · Bash · GitHub Actions  
+**Databases:** MongoDB · MySQL · Redis
+**Data:** Pandas · NumPy · Matplotlib · Scikit-Learn · PyTorch  
+**Testing:** Pytest
 
 ---
 
